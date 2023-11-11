@@ -79,3 +79,6 @@ from google.colab import files
 
 # 동영상 파일을 다운로드
 files.download('taxi_agent.mp4')
+
+
+https://colab.research.google.com/drive/1iHSjqMCbWwWvgJXrObYNyr194xnuzrxW?authuser=1
